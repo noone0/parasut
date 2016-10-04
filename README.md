@@ -51,8 +51,8 @@ $contact = $parasut->make('contact')->create([
     'category_id'  => null,
     'address_attributes' => [
         'address' => 'Guzel Mahalle Istanbul',
-        'phone'   => '123 123 4567'
-        'fax'     => null,
+        'phone'   => '123 123 4567',
+        'fax'     => null
     ],
     'contact_people_attributes' => [
         [
